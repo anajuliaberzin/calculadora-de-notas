@@ -23,4 +23,4 @@ Este repositório foi criado com a finalidade de calcular a média de um aluno c
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/anajuliaberzin/calculadora-de-notas
